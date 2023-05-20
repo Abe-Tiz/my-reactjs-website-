@@ -1,7 +1,7 @@
 {
   "name": "react_wesite",
   "version": "0.1.0",
-  "homepage": "https://Abe-Tiz.github.io/react_wesite",
+  "homepage": "https://Abe-Tiz.github.io/my-reactjs-website-",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
