@@ -17,7 +17,7 @@ function Home() {
 
 
   return (
-    <>
+    <div>
         
         <Sidebar isOpen={isOpen} toggle={toggle}/>
         <Navbar isOpen={isOpen} toggle={toggle} />
@@ -27,7 +27,7 @@ function Home() {
         <Services />
         <InfoSection  {...homeObjThree}/>
         <Footer />
-    </>
+    </div>
   )
 }
 
